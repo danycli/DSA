@@ -2,7 +2,7 @@ package Patterns;
 
 import java.util.Arrays;
 
-public class sorting {
+public class BubbleSort {
     public static void main (String [] args){
         int[] x = {5,2,6,8,9};
         //Ascending
